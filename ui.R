@@ -12,7 +12,7 @@ shinyUI(fluidPage(
  fluidRow(
   
    h4("1. UPCOMING RACE"),
-   h5("Enter the distance and track conditions of the race outcome to be predicted."), 
+   h5("Enter the distance and track conditions of the race to be predicted."), 
    br(),
    
    column(width=2,offset=0, wellPanel(
