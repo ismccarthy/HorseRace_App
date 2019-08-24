@@ -7,4 +7,4 @@ This repository contains the necessary code to run a shiny app - the ui.R and se
 
 This app predicts the outcome of a horse race based on the horses' past form.
 
-The url for this app is: 
+The url for this app is: https://ianmccarthy.shinyapps.io/HorseRace/
