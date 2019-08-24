@@ -3,8 +3,9 @@ HorseRace_App
 
 Coursera Project - DataProducts
 
-This repository contains the necessary code to run a shiny app - the ui.R and server.R files.
+This repository contains the necessary code to run an R Shiny App, which requires two standard named files:
+**ui.R (user interface)** & **server.R files (server)**
 
-This app predicts the outcome of a horse race based on the horses' past form.
+The Shiny App predicts the outcome of a horse race based on the horses' past form.
 
 The url for this app is: https://ianmccarthy.shinyapps.io/HorseRace/
