@@ -1,7 +1,7 @@
 HorseRace_App
 =============
 
-Coursera Project - DataProducts
+Project - HorseRace Web App (in R / Shiny)
 
 This repository contains the necessary code to run an R Shiny App, which requires two standard named files:
 **ui.R (user interface)** & **server.R files (server)**
